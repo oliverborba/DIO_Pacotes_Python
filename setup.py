@@ -7,14 +7,14 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="package_name",
-    version="0.0.1",
+    name="processingDIOImage",
+    version="0.2",
     author="Lucas Borba",
     author_email="lucas_borba@outlook.com",
     description="My short description",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="my_github_repository_project_link",
+    url="https://github.com/oliverborba/DIO_Pacotes_Python",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
