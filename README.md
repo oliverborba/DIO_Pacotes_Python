@@ -1,9 +1,19 @@
 # package_name
 
 Description. 
-The package package_name is used to:
-	- 
-	-
+
+Criação de pacotes em Python no Pypi a aplicação para processamento de imagens:
+
+	Processing
+		- Histogram matching
+		- Structural similarity
+		- Resize image
+	Utils:
+		- Read image
+		- Save image
+		- Plot image
+		- Plot result
+		- Plot histogram
 
 ## Installation
 
